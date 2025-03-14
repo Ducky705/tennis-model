@@ -72,7 +72,7 @@ This will:
 python gui.py
 ```
 
-![GUI Screenshot](Screenshot 2025-03-14 170042.png)
+![GUI Screenshot](Sports-Prediction-GUI.png)
 
 **Input Fields**:
 - Tournament details (name, series, court type)
